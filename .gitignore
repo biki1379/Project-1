@@ -6,3 +6,4 @@ terraform/terraform.tfstate.backup
 
 lambda/*.zip
 
+terraform/.terraform/
